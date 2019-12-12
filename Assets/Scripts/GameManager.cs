@@ -5,7 +5,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour {
     public FruitsManager fruitManager;
 
-    private Fruit[,] fruitArray = new Fruit[5, 5];
+    private Fruit[,] fruitArray = new Fruit[8, 6];
     void Start () {
         InitFruits();
 
@@ -34,6 +34,7 @@ public class GameManager : MonoBehaviour {
         foreach (var go in fruits) {
             go.gameObject.SetActive(false);
         }
+        fruitManager.Rotate();
        // fruitArray[x, y].gameObject.SetActive(false);
        
     }

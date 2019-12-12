@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using DG.Tweening;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -19,9 +20,11 @@ public class FruitsManager : MonoBehaviour {
         go.transform.localScale = new Vector3(25, 25, 25);
         return go;
     }
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+
+    public void Rotate()
+    {
+        Vector3 v3 = transform.localRotation.eulerAngles;
+        transform.DORotate(new Vector3(0, v3.y + 90, 0), 1, RotateMode.WorldAxisAdd);
+        // transform.rotation = Quaternion.Euler(0, 90, 0);
+    }
 }
