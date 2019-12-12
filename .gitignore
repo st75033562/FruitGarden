@@ -1,14 +1,5 @@
-/build/
-obj/
-*.userprefs
 /Library/
 /Temp/
 /*.csproj
 /*.sln
-*.suo
-*.userprefs
-*.swp
-unityRes/
-bundle-hosts.json*
-*.user
-.idea/
+.vs/*

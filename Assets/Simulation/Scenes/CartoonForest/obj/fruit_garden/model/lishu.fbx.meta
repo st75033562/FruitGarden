@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 8a1dbdb0048c5674eb9b6846c48fd3a4
+labels:
+- object
+timeCreated: 1557219739
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: li
+    100002: li1
+    100004: li2
+    100006: li3
+    100008: li4
+    100010: li5
+    100012: li6
+    100014: li7
+    100016: //RootNode
+    400000: li
+    400002: li1
+    400004: li2
+    400006: li3
+    400008: li4
+    400010: li5
+    400012: li6
+    400014: li7
+    400016: //RootNode
+    2300000: li
+    2300002: li1
+    2300004: li2
+    2300006: li3
+    2300008: li4
+    2300010: li5
+    2300012: li6
+    2300014: li7
+    2300016: //RootNode
+    3300000: li
+    3300002: li1
+    3300004: li2
+    3300006: li3
+    3300008: li4
+    3300010: li5
+    3300012: li6
+    3300014: li7
+    3300016: //RootNode
+    4300000: lishu
+    4300002: li
+    4300004: li1
+    4300006: li2
+    4300008: li3
+    4300010: li4
+    4300012: li5
+    4300014: li6
+    4300016: li7
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: obj-fruit_garden-model
+  assetBundleVariant: 
